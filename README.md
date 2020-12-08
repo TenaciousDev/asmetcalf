@@ -1,3 +1,35 @@
+<!-- ```c#
+using GitHub.Profile.Readme.MarkdownDocument;
+using Brain.Aptitude.Pseudocode;
+using Brain.Aptitude.Humor;
+using Brain.Consciousness.Focus.Interest.Code;
+
+namespace GitHub.asmetcalf
+
+public class Profile : IGitHubProfile
+{
+    public string Header { "Hi, I'm Adam!" }
+    public string SubHeader { "I really, really like to code. It's one of my favorite things." }
+    [Display(Name = "Most Recent Day I Was Excited To Learn Something New & Awesome")]
+    [DisplayFormat(DataFormatString = "{0:d}")]
+    public DateTime ContinuallyLearning {
+        get {
+            return DateTime.Now;
+        }
+    }
+    public List<Favorites> = new List<Favorites>()
+    {
+        Favorites.One = "Coding & Learning about code",
+        Favorites.Two = "My floofy cat Rome",
+        Favorites.TwoAndAHalf = "Reading/Watching Sci-Fi",
+        Favorites.Three = "Cooking"
+        Favorites.Four = "Designing this Readme, it's pretty fun so far",
+        Favorites.Five = GetNextFavoriteThings()
+    };
+}
+
+``` -->
+
 
 <h2 align="center"> Coming Soon </h2>
 
