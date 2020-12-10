@@ -1,5 +1,4 @@
-- name: Blog Post Workflow
-  uses: gautamkrishnar/blog-post-workflow@1.4.2
+name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
