@@ -37,6 +37,7 @@ public class Profile : IGitHubProfile
 
 ### Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello world!](https://dev.to/asmetcalf/hello-world-2kc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ### Programming Languages:
